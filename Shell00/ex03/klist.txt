@@ -1,0 +1,5 @@
+Credentials cache: API:D33F16D7-C9F1-4630-885B-C61C461CEF5E
+        Principal: rofernan@42.FR
+
+  Issued                Expires               Principal
+Jul  1 12:46:35 2019  Jul  8 12:46:20 2019  krbtgt/42.FR@42.FR
